@@ -24,9 +24,11 @@ A personal project which uses OpenAI's API (DALL-E and GPT-4) to generate a uniq
 - **Rate-Limited Generation**: Respects OpenAI API constraints with built-in timing controls
 
 
-## Known Limitations
+## Limitations
 
 - Gallery generation takes 5-7 minutes due to OpenAI API rate limits
 - Requires active internet connection
 - API key needs appropriate credits/subscription
 - Some themes may produce unexpected results
+
+Note: If you want to access the project build you can contact me via jblacksh@uci.edu
