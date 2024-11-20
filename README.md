@@ -4,6 +4,10 @@ A personal project which uses OpenAI's API (DALL-E and GPT-4) to generate a uniq
 
 ![Gallery Preview Placeholder](preview.gif)
 
+## Demo Video (Click To Watch!)
+
+[![Watch the Demo](https://img.youtube.com/vi/E7X-MG05KRQ/maxresdefault.jpg)]([https://youtu.be/E7X-MG05KRQ](https://www.youtube.com/watch?v=QVHAl8b5wQo&t=2s))
+
 ## Features
 
 - **Theme-Based Generation**: Enter any theme and watch as AI creates a complete gallery exhibition
