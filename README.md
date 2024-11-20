@@ -7,7 +7,6 @@ A personal project which uses OpenAI's API (DALL-E and GPT-4) to generate a uniq
 ## Demo Video (Click To Watch!)
 
 [![Watch the Demo](https://github.com/user-attachments/assets/a60427d2-d77a-4460-acd1-4ac17d360daf)](https://youtu.be/QVHAl8b5wQo?si=-3h6S4Zyv45A5FHg)
-![Still 2024-11-19 203321_1 3 5](https://github.com/user-attachments/assets/a60427d2-d77a-4460-acd1-4ac17d360daf)
 
 ![Still 2024-11-19 201834_1 5 2](https://github.com/user-attachments/assets/fd936ed2-1302-41fd-b6ee-f4e032656950)
 ![Still 2024-11-19 201818_1 3 3](https://github.com/user-attachments/assets/78b0a01a-0d91-4c99-b87f-3d68968d154c)
