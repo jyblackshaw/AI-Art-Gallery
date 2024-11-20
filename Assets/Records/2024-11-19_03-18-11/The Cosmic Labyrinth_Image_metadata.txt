@@ -1,0 +1,5 @@
+Title: The Cosmic Labyrinth
+Description: A celestial maze that represents the complexity and horror of the cosmos.
+Prompt: An intricate, terrifying maze made of stars and galaxies
+Generated: 2024-11-19_03-18-11
+Artwork Object: Image

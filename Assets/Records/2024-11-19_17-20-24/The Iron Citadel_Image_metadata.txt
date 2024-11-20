@@ -1,0 +1,5 @@
+Title: The Iron Citadel
+Description: Imagine standing before 'The Iron Citadel', a titan shrouded in the dying light of a crimson sunset. Its austere, concrete facade tells a tale of power and resilience, yet there's a haunting beauty in its desolation. Can a structure, devoid of life, still echo with the heartbeat of a people?
+Prompt: A colossal brutalist structure, towering against a fiery sunset. Its cold grey walls contrast against the warm sky. The building is deserted, giving a sense of solitude and silence.
+Generated: 2024-11-19_17-20-24
+Artwork Object: Image

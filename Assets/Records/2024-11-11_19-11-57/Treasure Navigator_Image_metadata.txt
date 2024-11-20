@@ -1,0 +1,5 @@
+Title: Treasure Navigator
+Description: In this piece, the artist conveys a juxtaposition of classic opulence and beyond-edge technology, showcasing humanity’s decadence reaching the distant cosmos. A thought-provoking blend of past and future, raising questions about the universal pursuit of wealth.
+Prompt: A heavily gilded spaceship illustrated in neo-baroque style navigating through the edge of a glowing galaxy
+Generated: 2024-11-11_19-11-57
+Artwork Object: Image

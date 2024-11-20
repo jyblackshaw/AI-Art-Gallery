@@ -1,0 +1,5 @@
+Title: Mosaic Recoveries
+Description: Mosaic Recoveries is an exploration of the potency of memory and the resurgence of forgotten narratives. This artwork combines the erratic beauty of shattered glass and the timeless grandeur of stained, reflecting on the delicate and transient quality of memory. The scattered and fragmented design is an abstract representation of our scattered thoughts and memories, while the glowing colours symbolise the vibrance and clarity that often flash across our minds in fleeting moments. This piece recalls the emotional weight of reminiscing, and the paradoxical nature of human memory—fragile yet enduring, scattered yet cohesive, latent yet vivid. Each piece of shattered glass denotes a fragment of a memory, reminding us that while our experiences and memories may seem fragmented, together they form a beautiful, abstract mosaic of our life.
+Prompt: An abstract artwork resembling shards of a shattered stained glass window refracting sunlight, shaping a bright symphony of colours and shadows falling onto a worn-out wooden surface.
+Generated: 2024-11-18_00-28-09
+Artwork Object: Image

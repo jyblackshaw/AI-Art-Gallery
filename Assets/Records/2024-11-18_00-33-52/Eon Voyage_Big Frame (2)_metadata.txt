@@ -1,0 +1,5 @@
+Title: Eon Voyage
+Description: This artwork manifests the uncertainties and perils of interstellar journeys. It also underlines the development of advanced AI and technology, capable of guiding us through cosmic hazards, thus extending our reach into deep space.
+Prompt: A sleek, autonomous spacecraft navigating through a field of asteroids, with nearby stars bending its route through their gravitational pull.
+Generated: 2024-11-18_00-33-52
+Artwork Object: Big Frame (2)

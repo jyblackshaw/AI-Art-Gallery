@@ -1,0 +1,5 @@
+Title: Aeroflot Central
+Description: The hub of Soviet aviation, Aeroflot Central was a symbol of the country's technological prowess and global reach.
+Prompt: A large, domed, futuristic airport terminal
+Generated: 2024-11-19_03-05-42
+Artwork Object: Image

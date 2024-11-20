@@ -1,0 +1,5 @@
+Title: Quantum Leap
+Description: 'Quantum Leap' portrays a dynamic movement, depicting the exhilarating moment as a spaceship leaps across dimensions. The artwork opens a discourse about potential jumps in technology and science, opening new paradigms in space travel.
+Prompt: An alien-shaped, translucent spaceship caught mid-action jumping through a vibrant quantum portal.
+Generated: 2024-11-11_19-13-57
+Artwork Object: Big Frame (6)

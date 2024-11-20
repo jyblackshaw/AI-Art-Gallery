@@ -1,0 +1,5 @@
+Title: The Final Frontier
+Description: A terrifying depiction of the edge of the universe, where the known meets the unknown.
+Prompt: The edge of the universe revealing a terrifying unknown
+Generated: 2024-11-19_03-23-36
+Artwork Object: Big Frame (10)

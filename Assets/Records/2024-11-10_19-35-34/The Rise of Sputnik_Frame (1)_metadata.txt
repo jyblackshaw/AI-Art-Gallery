@@ -1,0 +1,5 @@
+Title: The Rise of Sputnik
+Description: This piece captures the burgeoning optimism of Soviet society in the post-war 1950s, the triumph of launching Sputnik and their desire to assert global dominance. The tower represents the unbounded ambition and technological prowess of the Soviet Union during this period, while the minute details of the city below provide a glimpse into daily life amidst this surging momentum.
+Prompt: A colossal radio tower constructed from concrete and steel emerges imperiously from a vibrant and optimistic 1950s Soviet city. Iconic Soviet symbols, including the hammer and sickle emblem, adorn the structure. High above, a stylized representation of Sputnik, the world's first artificial satellite, orbits, casting a determined, hopeful light on the scene below.
+Generated: 2024-11-10_19-35-34
+Artwork Object: Frame (1)

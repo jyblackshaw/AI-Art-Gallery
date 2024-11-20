@@ -1,0 +1,5 @@
+Title: Cathedral of Communism
+Description: Imposing in its grandeur, this structure was the nerve center of Soviet governance. Its monolithic architecture exhibits the dominion of central power and the collectivist layout of residential areas.
+Prompt: A colossal administrative building with a vast plaza before it, flanked by rows of identical residential block apartments.
+Generated: 2024-11-18_01-49-33
+Artwork Object: Image

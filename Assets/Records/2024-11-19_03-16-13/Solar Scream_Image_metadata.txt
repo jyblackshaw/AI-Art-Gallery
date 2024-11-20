@@ -1,0 +1,5 @@
+Title: Solar Scream
+Description: A personification of the sun, screaming in cosmic horror.
+Prompt: A sun shrieking, its flares forming a terrified face
+Generated: 2024-11-19_03-16-13
+Artwork Object: Image

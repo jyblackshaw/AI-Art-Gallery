@@ -1,0 +1,5 @@
+Title: Titan's Whisper
+Description: This piece specifically addresses our fascination with Titan, known for its Earth-like conditions. The whisper here signifies the silent messages sent by our rovers and probes to these far-off worlds, in search of potential life.
+Prompt: A sleek spaceship designed to withstand extreme conditions, orbiting around Titan, Saturn's largest moon.
+Generated: 2024-11-11_19-14-07
+Artwork Object: Big Frame (3)

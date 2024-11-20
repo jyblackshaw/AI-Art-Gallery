@@ -1,0 +1,5 @@
+Title: Ironclad Testament
+Description: The warship stands as a brutal testament to Soviet maritime power, combining industrial precision with a realpolitik display of strength.
+Prompt: A massive warship docked in a shipyard, dwarfing the industrious figures working beneath it.
+Generated: 2024-11-18_01-51-46
+Artwork Object: Big Frame (3)

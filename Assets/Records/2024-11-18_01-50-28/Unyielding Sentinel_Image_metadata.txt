@@ -1,0 +1,5 @@
+Title: Unyielding Sentinel
+Description: This outpost serves as a stark reminder of the Cold War pressures and the impregnable fortress that the Soviet Union was perceived to be.
+Prompt: A formidable military outpost built into a stark, icy mountainside.
+Generated: 2024-11-18_01-50-28
+Artwork Object: Image

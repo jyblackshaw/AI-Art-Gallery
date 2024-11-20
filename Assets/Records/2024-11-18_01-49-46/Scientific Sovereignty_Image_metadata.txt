@@ -1,0 +1,5 @@
+Title: Scientific Sovereignty
+Description: The research facility is a testament to Soviet commitment towards science. The aggressive futurism underlined the pursuit of knowledge as a vehicle for ideological victory.
+Prompt: A colossal circular scientific research facility encased in a futuristic dome, set amidst a barren snowscape.
+Generated: 2024-11-18_01-49-46
+Artwork Object: Image

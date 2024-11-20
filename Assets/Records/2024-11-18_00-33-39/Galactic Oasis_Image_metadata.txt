@@ -1,0 +1,5 @@
+Title: Galactic Oasis
+Description: The 'Galactic Oasis' showcases how mankind may shape an artificial ecosystem for survival and psychological harmony. It represents the persistence of the poetical and pastoral, even in the rigorously scientific context of space travel.
+Prompt: A lush, bioengineered garden inside a large transparent dome of a spacecraft, juxtaposed against the void of space.
+Generated: 2024-11-18_00-33-39
+Artwork Object: Image

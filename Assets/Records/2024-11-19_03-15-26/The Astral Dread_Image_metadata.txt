@@ -1,0 +1,5 @@
+Title: The Astral Dread
+Description: A celestial body that embodies the existential dread of the cosmic void.
+Prompt: A terrifying celestial body radiating fear
+Generated: 2024-11-19_03-15-26
+Artwork Object: Image

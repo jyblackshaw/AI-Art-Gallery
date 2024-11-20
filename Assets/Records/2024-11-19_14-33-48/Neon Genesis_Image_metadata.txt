@@ -1,0 +1,5 @@
+Title: Neon Genesis
+Description: Walk into 'Neon Genesis' and feel the hum of a city that never sleeps. Its neon veins pulse with life, a testament to human innovation. Yet, the imposing structures cast long shadows, hinting at the cost of progress. Do we control the city, or does the city control us?
+Prompt: A sprawling cityscape at night, imbued with neon lights reflecting off wet asphalt. The sky is a deep indigo, and colossal cybernetic structures dominate the skyline.
+Generated: 2024-11-19_14-33-48
+Artwork Object: Image

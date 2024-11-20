@@ -1,0 +1,5 @@
+Title: Harmony of Labor
+Description: An ode to the collective farm system, this art piece embodies the Soviet ideal of 'Harmony through shared Labor', where every grain harvested represented shared prosperity.
+Prompt: A vast, sprawling farm, punctuated by melancholic silos and relentless, tractor-marked fields.
+Generated: 2024-11-18_01-50-02
+Artwork Object: Image

@@ -1,0 +1,5 @@
+Title: The Eldritch Moon
+Description: A horrifying transformation of a celestial body into a monstrous entity.
+Prompt: A moon transforming into a monstrous entity
+Generated: 2024-11-19_03-15-49
+Artwork Object: Image

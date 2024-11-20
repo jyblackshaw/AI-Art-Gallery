@@ -1,0 +1,5 @@
+Title: The Star Beast
+Description: A constellation that takes on the shape of a lurking cosmic beast.
+Prompt: A constellation forming a terrifying beast
+Generated: 2024-11-19_03-17-01
+Artwork Object: Image

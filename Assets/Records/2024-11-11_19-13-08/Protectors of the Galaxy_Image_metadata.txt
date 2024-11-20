@@ -1,0 +1,5 @@
+Title: Protectors of the Galaxy
+Description: 'Protectors of the Galaxy' brings to life the almost comic-book idea of extraterrestrial defense. Depicting a world where interplanetary conflicts are resolved by diplomatic and peacekeeping missions, it tells a story of unity and cooperation among planets.
+Prompt: A fleet of sleek, shiny spaceships patrolling around a life-sustaining planet.
+Generated: 2024-11-11_19-13-08
+Artwork Object: Image

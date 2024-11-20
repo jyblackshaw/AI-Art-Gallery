@@ -1,0 +1,5 @@
+Title: The Cosmic Entity
+Description: A representation of an ancient cosmic entity whose existence defies the laws of physics and biology.
+Prompt: A monstrous, nebulous entity floating in space
+Generated: 2024-11-19_03-14-14
+Artwork Object: Image

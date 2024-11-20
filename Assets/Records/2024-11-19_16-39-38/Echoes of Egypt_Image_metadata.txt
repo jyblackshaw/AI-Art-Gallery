@@ -1,0 +1,5 @@
+Title: Echoes of Egypt
+Description: What secrets lie within the golden sarcophagus? Is it not a testament to mankind's fascination with immortality, a powerful symbol of an era when death was but a gateway to an eternal journey? The Pharaoh's death mask gazes at us, a timeless sentinel, challenging us to question our own mortality and the legacy we leave behind.
+Prompt: A golden sarcophagus glistening under the soft, ambient light, adorned with intricate hieroglyphs and the iconic death mask of a Pharaoh, set against a backdrop of the pyramids under a star-lit sky.
+Generated: 2024-11-19_16-39-38
+Artwork Object: Image

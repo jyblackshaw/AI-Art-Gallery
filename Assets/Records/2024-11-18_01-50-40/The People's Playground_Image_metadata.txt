@@ -1,0 +1,5 @@
+Title: The People's Playground
+Description: The amusement park presents the lighter, more joyous side of Soviet life, where art, culture, and leisure were blended into architecture.
+Prompt: A grand amusement park with a ferris-wheel dominating the skyline and statuesque attractions spread out under a cotton candy sunset.
+Generated: 2024-11-18_01-50-40
+Artwork Object: Image

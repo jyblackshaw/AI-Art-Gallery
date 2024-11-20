@@ -1,0 +1,5 @@
+Title: The Frozen Titan
+Description: Behold 'The Frozen Titan', an unsettling symbol of mankind's power and hubris. It silently questions - what happens when the forces we unleash become forces we can no longer control?
+Prompt: A decommissioned nuclear power plant, its cooling towers looming ominously against a snowy backdrop. The plant, though inactive, still holds a sense of foreboding.
+Generated: 2024-11-19_17-30-06
+Artwork Object: Image

@@ -1,0 +1,5 @@
+Title: Cosmic Train
+Description: This piece draws parallels between terrestrial and celestial travel, beautifully Earth's conventional rail system with a dreamy cosmic journey. The artwork showcases how future transportation might evolve by borrowing ideas from our past.
+Prompt: A futuristic space train bound on a trail of stardust across the universe.
+Generated: 2024-11-11_19-12-55
+Artwork Object: Image

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b45e26d2c6f9a04c99932f737a37c88, type: 3}
+  m_Name: PaintingSettings
+  m_EditorClassIdentifier: 
+  uiPrefab: {fileID: 6861350493677702326, guid: 91fd6542b05185e4996dc66e3a81c4f6, type: 3}
+  uiOffset: 2.2
+  defaultInteractionDistance: 3
+  bigPaintingInteractionDistance: 5
+  interactionKey: 101
+  zoomDistance: 5
+  zoomDuration: 1
+  titleColor: {r: 0.8490566, g: 0.8490566, b: 0.8490566, a: 1}
+  descriptionColor: {r: 0.6039216, g: 0.6039216, b: 0.6039216, a: 1}
+  titleFont: {fileID: 11400000, guid: 544fa1dc214271e44ac86366c1b9ea26, type: 2}
+  descriptionFont: {fileID: 11400000, guid: d7f76d4fe7fc2ad4ab8938881eae8ac0, type: 2}
+  titleFontSize: 72
+  descriptionFontSize: 32
+  animationDuration: 0.8
+  showEase: 12
+  hideEase: 11
+  startScale: 0.3
+  fadeDelay: 0.1
+  textStagger: 0.05
+  charactersPerSecond: 60
+  typewriterDelay: 0.2
+  typewriterEase: 1

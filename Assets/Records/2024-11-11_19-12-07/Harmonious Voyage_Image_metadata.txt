@@ -1,0 +1,5 @@
+Title: Harmonious Voyage
+Description: 'Harmonious Voyage' inspires thoughts about a symbiotic relationship between space exploration and the cosmic environment we voyage into. The artwork invites patrons to envision a future where technology exists in harmony with the cosmic universe.
+Prompt: A large spacecraft crafted from glass and mirrors reflecting the multicolored nebula around it
+Generated: 2024-11-11_19-12-07
+Artwork Object: Image

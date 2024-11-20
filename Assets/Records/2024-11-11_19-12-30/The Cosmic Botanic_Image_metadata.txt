@@ -1,0 +1,5 @@
+Title: The Cosmic Botanic
+Description: This mystical piece depicts humans harnessing alien life forms to facilitate space travel. It marvelously challenges the perception of future technology, propelling our thoughts beyond the cold metal confines into the realm of interstellar biology.
+Prompt: A bioluminescent ship cultivated from a gigantic alien plant, floating through the depths of a nebula
+Generated: 2024-11-11_19-12-30
+Artwork Object: Image

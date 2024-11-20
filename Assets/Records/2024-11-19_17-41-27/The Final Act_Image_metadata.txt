@@ -1,0 +1,5 @@
+Title: The Final Act
+Description: In 'The Final Act', we see a stage set for a performance that never happened. It leaves us to wonder - is a story still told if there's no one to hear it?
+Prompt: A deserted theater, its red velvet seats and wooden stage covered in a layer of dust. The curtain is drawn, suggesting a performance that never took place.
+Generated: 2024-11-19_17-41-27
+Artwork Object: Image

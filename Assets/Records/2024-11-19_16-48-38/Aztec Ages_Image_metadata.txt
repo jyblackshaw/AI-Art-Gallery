@@ -1,0 +1,5 @@
+Title: Aztec Ages
+Description: The Aztec calendar stone, etched with symbols of gods and myths, is a testament to a civilization's understanding of time and cosmos. It challenges us to contemplate our own perception of time. In our fast-paced world, have we lost the patience to appreciate the cyclical nature of life and the cosmos?
+Prompt: An Aztec calendar stone, surrounded by symbols of the Aztec gods and mythology, set against a backdrop of the Aztec city of Tenochtitlan.
+Generated: 2024-11-19_16-48-38
+Artwork Object: Image

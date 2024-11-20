@@ -1,0 +1,5 @@
+Title: The People's Palace
+Description: Built to represent the unity and strength of the people, this palace is a grand architectural masterpiece.
+Prompt: A grand palace with numerous spires, flags, and statues
+Generated: 2024-11-19_03-06-05
+Artwork Object: Big Frame (4)

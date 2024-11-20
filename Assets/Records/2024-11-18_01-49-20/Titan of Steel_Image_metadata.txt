@@ -1,0 +1,5 @@
+Title: Titan of Steel
+Description: This piece provides an awe-inspiring vision of industrial might. The complex represents the integral role of mass production during the Soviet era, where raw steel was forged into societal advance.
+Prompt: A gargantuan industrial complex in muted shades of grey, with smoking chimneys against a twilight sky.
+Generated: 2024-11-18_01-49-20
+Artwork Object: Image

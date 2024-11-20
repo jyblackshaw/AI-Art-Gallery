@@ -1,0 +1,5 @@
+Title: Olmec Oracle
+Description: The Olmec stone head, colossal and enigmatic, stands as a silent guardian of a civilization long gone. Its inscrutable gaze compels us to seek the wisdom of the ancients. In our quest for progress, have we forgotten to listen to the whispers of the past?
+Prompt: An Olmec stone head, colossal and enigmatic, set amidst the lush vegetation of an ancient jungle.
+Generated: 2024-11-19_16-53-11
+Artwork Object: Big Frame (9)

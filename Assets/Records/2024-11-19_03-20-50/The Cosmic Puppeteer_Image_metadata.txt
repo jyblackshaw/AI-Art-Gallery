@@ -1,0 +1,5 @@
+Title: The Cosmic Puppeteer
+Description: A cosmic entity manipulates celestial bodies like marionettes, symbolizing the unseen horrors that control the universe.
+Prompt: A cosmic entity controlling celestial bodies like puppets
+Generated: 2024-11-19_03-20-50
+Artwork Object: Image

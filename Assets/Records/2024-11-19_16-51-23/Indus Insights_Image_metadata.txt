@@ -1,0 +1,5 @@
+Title: Indus Insights
+Description: The Indus Valley seal, a compact canvas of life and myth, offers a glimpse into one of the world's earliest urban civilizations. It provokes us to question our urban lifestyles. As we build our modern metropolises, are we creating sustainable and harmonious societies?
+Prompt: An ancient Indus valley seal, intricately carved with depictions of life and mythology, set against a backdrop of the bustling city of Mohenjo-Daro.
+Generated: 2024-11-19_16-51-23
+Artwork Object: Image

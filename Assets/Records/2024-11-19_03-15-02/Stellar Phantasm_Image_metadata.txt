@@ -1,0 +1,5 @@
+Title: Stellar Phantasm
+Description: An embodiment of the ethereal horrors that lurk in the darkest corners of the cosmos.
+Prompt: A ghostly apparition made of stardust and cosmic energy
+Generated: 2024-11-19_03-15-02
+Artwork Object: Image

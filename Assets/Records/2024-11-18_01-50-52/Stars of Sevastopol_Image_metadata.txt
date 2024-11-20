@@ -1,0 +1,5 @@
+Title: Stars of Sevastopol
+Description: The spaceport captures the essence of the Soviet pursuit of space exploration, underlining their edge in the Space Race and the hope it represented for the nation's future.
+Prompt: A spaceport located by the sea, with looming rocket launch platforms and a futuristic cityscape on the horizon.
+Generated: 2024-11-18_01-50-52
+Artwork Object: Image

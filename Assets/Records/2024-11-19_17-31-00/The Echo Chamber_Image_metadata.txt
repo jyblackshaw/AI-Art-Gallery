@@ -1,0 +1,5 @@
+Title: The Echo Chamber
+Description: Venture into 'The Echo Chamber', a space once filled with voices and visions. It compels us to ponder - in the absence of voices and images, where does the truth lie?
+Prompt: An empty television studio, its screens now blank, chairs unoccupied. The sense of silence is palpable, as if the room is holding its breath.
+Generated: 2024-11-19_17-31-00
+Artwork Object: Image

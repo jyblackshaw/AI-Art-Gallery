@@ -1,0 +1,5 @@
+Title: The Shadow Planet
+Description: A planet enveloped in shadows, symbolizing the cosmic horrors that hide in darkness.
+Prompt: A planet covered in moving, ominous shadows
+Generated: 2024-11-19_03-19-18
+Artwork Object: Image

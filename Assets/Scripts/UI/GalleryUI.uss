@@ -1,0 +1,70 @@
+.theme-input-field .unity-text-field__input {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: rgb(255, 255, 255);
+    border-width: 1px;
+    border-color: rgba(255, 255, 255, 0.2);
+    padding: 8px;
+    font-size: 14px;
+}
+
+.theme-input-field .unity-text-field__input:hover {
+    border-color: rgba(255, 255, 255, 0.3);
+}
+
+.theme-input-field .unity-text-field__input:focus {
+    border-color: rgb(255, 255, 255);
+}
+
+.rotating {
+    background-image: resource("loading-spinner");
+    rotate: 0deg;
+    transition: rotate 1s linear infinite;
+}
+
+.rotating:hover {
+    rotate: 360deg;
+}
+
+.placeholder-text {
+    position: absolute;
+    left: 4px;
+    top: 2px;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.5);
+    -unity-text-align: middle-left;
+    display: flex;
+    padding: 4px;
+    pointer-events: none;
+}
+
+.unity-base-field__input {
+    border-radius: 4px;
+    border-width: 1px;
+    border-color: rgba(255, 255, 255, 0.2);
+    padding: 8px;
+}
+
+.unity-button {
+    border-radius: 4px;
+    border-width: 0;
+    padding: 8px 16px;
+    transition: scale 0.2s;
+}
+
+.unity-button:hover {
+    scale: 1.02;
+}
+
+.unity-button:active {
+    scale: 0.98;
+}
+
+#content-container {
+    border-radius: 12px;
+    border-width: 1px;
+    border-color: rgba(255, 255, 255, 0.1);
+}
+
+#loading-spinner {
+    background-image: resource("loading-spinner");
+}

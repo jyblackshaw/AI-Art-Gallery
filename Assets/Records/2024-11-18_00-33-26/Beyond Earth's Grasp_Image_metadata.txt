@@ -1,0 +1,5 @@
+Title: Beyond Earth's Grasp
+Description: The artwork is an allegory for humanity's liberation from earthly confines, the imminent adventure, and the poignant farewell to our cradle. It sparks contemplation about chosen exile, the thrill and the fear that come in the pursuit of knowledge and survival.
+Prompt: A colossal, sleek, aerodynamic spacecraft breaking the atmosphere, leaving the familiar silhouette of Earth behind.
+Generated: 2024-11-18_00-33-26
+Artwork Object: Image

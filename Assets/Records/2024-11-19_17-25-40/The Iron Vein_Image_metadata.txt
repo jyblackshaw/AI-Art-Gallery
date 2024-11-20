@@ -1,0 +1,5 @@
+Title: The Iron Vein
+Description: 'The Iron Vein', once vibrant with the pulse of a nation, now lies silent. It begs us to consider, is progress made for the sake of humanity, or does humanity serve the march of progress?
+Prompt: A vast railway stretching into the horizon, cutting through an icy tundra. The railway, once bustling, is now stark and silent.
+Generated: 2024-11-19_17-25-40
+Artwork Object: Image

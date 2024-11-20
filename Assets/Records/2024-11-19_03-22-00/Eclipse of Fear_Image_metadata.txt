@@ -1,0 +1,5 @@
+Title: Eclipse of Fear
+Description: An eclipse that symbolizes the engulfing fear associated with cosmic horror.
+Prompt: An eclipse radiating an aura of terror
+Generated: 2024-11-19_03-22-00
+Artwork Object: Image

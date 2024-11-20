@@ -1,0 +1,5 @@
+Title: The Cosmic Crypt
+Description: A crypt made of galaxies and stars, symbolizing the final resting place of those who fall to cosmic horrors.
+Prompt: A crypt made of galaxies and stars
+Generated: 2024-11-19_03-21-36
+Artwork Object: Big Frame (4)

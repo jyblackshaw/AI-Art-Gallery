@@ -1,0 +1,5 @@
+Title: The Pillars of Mantle
+Description: 'The Pillars of Mantle' is a monumental installation, designed to encapsulate the mysterious and vibrant world beneath the crust. The towering structures, with their hues of red, orange, yellow and dark green, evoke the intense temperatures, pressure and mineral composition found within the earth’s mantle. This exuberant display, amalgamating the ferocity and majesty of natural processes, invites viewers to ponder the dynamic world below our feet, fostering in them a bond with our planet.
+Prompt: A larger-than-life, immersive 3D exhibit of towering structures inspired by the earth's mantle. The exhibit should reflect the dynamic nature, the mineral composition, and the extremes of pressure and temperature of the Mantle. Utilize hues of red, orange and yellow with shades of dark green to contrast the intense heat and the presence of heavy silicate minerals.
+Generated: 2024-11-11_16-44-53
+Artwork Object: Image

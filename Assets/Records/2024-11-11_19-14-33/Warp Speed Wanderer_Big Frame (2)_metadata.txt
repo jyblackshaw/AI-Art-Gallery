@@ -1,0 +1,5 @@
+Title: Warp Speed Wanderer
+Description: 'Warp Speed Wanderer' delves into the concept of travelling at FTL (Faster Than Light) speeds. Leaning on popular notions from science fiction, this piece challenges the limits of our current scientific understanding.
+Prompt: A slim, torpedo-shaped spaceship zooming across multiple galaxies at warp speed.
+Generated: 2024-11-11_19-14-33
+Artwork Object: Big Frame (2)

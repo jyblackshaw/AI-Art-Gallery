@@ -1,0 +1,5 @@
+Title: Galactic Ghosts
+Description: Ghostly apparitions float aimlessly in a galaxy, symbolizing the spirits lost to the cosmic horrors.
+Prompt: Ghostly apparitions floating in a galaxy
+Generated: 2024-11-19_03-21-13
+Artwork Object: Image

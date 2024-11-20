@@ -1,0 +1,5 @@
+Title: Monolith of Martyr
+Description: The 'Monolith of Martyr' symbolizes the tireless human spirit. The anvil-shaped spacecraft highlights our persistence, resilience, and effort in overcoming the adversities faced in the exploration of the great unknown. Its iridescent hull, reflecting a tapestry of colors, portrays the diversity and collective strength of our species. This grandiose monolith, piercing through the cosmic fabric, resonates with our unyielding zeal to chart the mysteries of existence, creating an awe-striking imagery of human determination.
+Prompt: A colossal spaceship, built with an iridescent metallic alloy, reflecting all the colors of a distorted galaxy in the reflection of its hull. Consider its silhouette as a massive anvil against the cosmos, embodying endurance, resistance and determination.
+Generated: 2024-11-11_14-58-10
+Artwork Object: Image

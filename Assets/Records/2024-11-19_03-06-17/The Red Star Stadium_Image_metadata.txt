@@ -1,0 +1,5 @@
+Title: The Red Star Stadium
+Description: A symbol of national pride and collective spirit, the Red Star Stadium hosted some of the most memorable events in Soviet history.
+Prompt: A massive open-air stadium with a star-shaped design
+Generated: 2024-11-19_03-06-17
+Artwork Object: Image
